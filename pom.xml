@@ -21,9 +21,9 @@
 	</issueManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:khaslu/utilix.git</connection>
-		<url>scm:git:git@github.com:khaslu/utilix.git</url>
-		<developerConnection>scm:git:git@github.com:khaslu/utilix.git</developerConnection>
+		<connection>scm:git:git@github.com:khaslu/vallia.git</connection>
+		<url>scm:git:git@github.com:khaslu/vallia.git</url>
+		<developerConnection>scm:git:git@github.com:khaslu/vallia.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
